@@ -1,7 +1,6 @@
-# Internet Programming (IB906C)
+# Internet Programming 1 (IB906C)
 
-# Assignments
-
+# Assignments (8 + 8 = 16)
 - 1.1.0 (mandatory)
 - 1.2.0 (mandatory)
 - 1.3.0 (mandatory)
